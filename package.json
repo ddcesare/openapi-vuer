@@ -3,6 +3,9 @@
     "poi": "^8.0.0-rc.13"
   },
   "dependencies": {
+    "marked": "^0.3.6",
+    "oai-ts-core": "^0.1.15",
+    "vue-material": "^0.7.1",
     "vuex": "^2.3.1"
   }
 }
